@@ -1,1 +1,2 @@
 Versionhallinta ja pilviedit
+localedit
